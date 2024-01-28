@@ -9,35 +9,49 @@ All data is stored using the [shared_preferences](https://pub.dev/packages/share
 
 - Create/Edit notes & organize them into groups
 
-<img src="img/create_note.png" alt="drawing" width="150"/>
-<img src="img/note_select_group.png" alt="drawing" width="150"/>
-<img src="img/note_select_color.png" alt="drawing" width="150"/>
+<p float="left">
+    <img src="img/create_note.png" alt="drawing" width="200"/>
+    <img src="img/note_select_group.png" alt="drawing" width="200"/>
+    <img src="img/note_select_color.png" alt="drawing" width="200"/>
+</p>
 
 - Text editor with basic formatting
 
-<img src="img/text_editor.png" alt="drawing" width="150"/>
+<p float="left">
+    <img src="img/text_editor.png" alt="drawing" width="200"/>
+</p>
 
 - Display notes/groups in a grid
 
-<img src="img/note_grid.png" alt="drawing" width="150"/>
-<img src="img/group_grid.png" alt="drawing" width="150"/>
+<p float="left">
+    <img src="img/note_grid.png" alt="drawing" width="200"/>
+    <img src="img/group_grid.png" alt="drawing" width="200"/>
+</p>
 
 - Create/Edit groups
 
-<img src="img/create_group.png" alt="drawing" width="150"/>
+<p float="left">
+    <img src="img/create_group.png" alt="drawing" width="200"/>
+</p>
 
 - Display notes from a group
 
-<img src="img/group_note.png" alt="drawing" width="150"/>
+<p float="left">
+    <img src="img/group_note.png" alt="drawing" width="200"/>
+</p>
 
 - Context menu for notes
 
-<img src="img/contextual_menu.png" alt="drawing" width="150"/>
-<img src="img/contextual_menu_note_in_group.png" alt="drawing" width="150"/>
+<p float="left">
+    <img src="img/contextual_menu.png" alt="drawing" width="200"/>
+    <img src="img/contextual_menu_note_in_group.png" alt="drawing" width="200"/>
+</p>
 
 - Context menu for groups
 
-<img src="img/contextual_menu_groups.png" alt="drawing" width="150"/>
+<p float="left">
+    <img src="img/contextual_menu_groups.png" alt="drawing" width="200"/>
+</p>
 
 
 ## Getting Started
