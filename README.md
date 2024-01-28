@@ -1,16 +1,30 @@
-# blog
+# Flutter Notes App 
 
-A new Flutter project.
+A flutter project to create notes, organize them into group and display them in a list.
+This project is not setup for fetching data from a server. It is just a simple project using local storage.
 
-## Getting Started
+All data is stored using the [shared_preferences](https://pub.dev/packages/shared_preferences) package. 
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Create/Edit notes & organize them into groups
+![image](img/create_note.png)
+![image](img/note_select_group.png)
+![image](img/note_select_color.png)
+- Text editor with basic formatting
+![image](img/text_editor.png)
+- Display notes in a grid
+![image](img/note_grid.png)
+- Create/Edit groups
+![image](img/create_group.png)
+- Display groups in a grid
+![image](img/group_grid.png)
+- Display notes from a group
+![image](img/group_note.png)
+- Context menu for notes
+![image](img/contextual_menu.png)
+![image](img/contextual_menu_note_in_group.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
